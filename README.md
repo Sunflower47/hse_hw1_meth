@@ -33,3 +33,6 @@ Epiblast |	SRR3824222 |	2328 |	1062 | 2.92%
 ![Epiblast](https://user-images.githubusercontent.com/71615626/154858489-f8fbc6b7-9ff5-4868-84d5-79fb6dc11b20.png)
 ![ICM](https://user-images.githubusercontent.com/71615626/154858490-3f8f12a8-84df-4bf0-b340-f525cde193a8.png)
 ![8_cell](https://user-images.githubusercontent.com/71615626/154858491-abffd93f-4dd6-4edb-a65b-9ea1543a6719.png)
+
+## Визуализация метилирования большого участка
+![image](https://user-images.githubusercontent.com/71615626/154858667-0227d6b5-a3d8-4365-a26a-b3f501b92977.png)
