@@ -1,13 +1,16 @@
 # hse_hw1_meth
 
+## hse_hw1_meth
 [Google Colab](https://colab.research.google.com/drive/1X1J4AAIwFiPRWa1ZVtgVyrfTVxeIQjL2?authuser=1#scrollTo=lohb6hoSO456)
 
 
-
+## Анализ графиков
 ![image](https://user-images.githubusercontent.com/71615626/154857961-4296f6b2-ee0b-4b47-9637-5f87bee89e89.png)
+
 В GC-составе наблюдается два пика. Это может быть связано с видом секвенирования. Большая часть C неметилирована, и в результате секвенирования превращается в U, а после читается как T. 
 
 ![image](https://user-images.githubusercontent.com/71615626/154858140-c76b54d9-53eb-4ad2-b61a-61e377c0261c.png)
+
 Это же предположение подтвержается на этом графике, так как видно, что нуклеотидов T намного больше остальных. 
 
 ## Полученные данные
